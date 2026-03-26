@@ -2,7 +2,7 @@
 <h3 align="center">M.Tech CSE @ NITK | API & System Design Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;API+Design+Enthusiast;System+Design+Learner;DSA+Problem+Solver&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=API+Design+Enthusiast;System+Design+Learner;DSA+Problem+Solver&center=true&width=500&height=50">
 </p>
 
 ---
