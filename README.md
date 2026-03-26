@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
-<h3 align="center">M.Tech CSE @ NITK | Backend Developer | API & System Design Enthusiast</h3>
+<h3 align="center">M.Tech CSE @ NITK | API & System Design Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;API+Design+Enthusiast;System+Design+Learner;DSA+Problem+Solver&center=true&width=500&height=50">
