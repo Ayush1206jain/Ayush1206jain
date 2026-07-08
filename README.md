@@ -12,9 +12,6 @@
 
 - 🎓 M.Tech CSE student at **NITK Surathkal**
 - 💻 Focused on **Backend Development, REST APIs, and System Design**
-- 🏗️ Currently building a **Real-Time VM Performance Monitoring Dashboard** (FastAPI, WebSockets, InfluxDB, Redis, React, Docker) — practicing architectural trade-offs like WebSockets vs. polling and InfluxDB vs. PostgreSQL
-- 🎯 Preparing for **SDE placement season** — sharpening DSA, backend fundamentals, and system design
-- 🌱 Currently exploring **Distributed Systems**, caching strategies, and scalable API design
 - 📫 Reach me at **ayush1206jain@gmail.com**
 
 ---
